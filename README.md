@@ -1,2 +1,2 @@
 # Logistic-Regression-Implementation
-This is the basline Logistic Regression Implementation example
+This is the baseline Logistic Regression Implementation example
